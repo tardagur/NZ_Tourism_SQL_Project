@@ -45,16 +45,6 @@ Time coverage: 1999–2025 for headline expenditure and employment series; 2022�
 
 ---
 
-## 🔎 Analytical Capabilities
-
-| Layer | Technique | Business Question Answered |
-|---|---|---|
-| Foundational | Filtering, aggregation, ordering | Where does tourist spending actually go? Which industries employ the most people? |
-| Intermediate | Multi-year comparison, percentage-share calculation, subqueries | Is NZ tourism becoming more or less reliant on international visitors? |
-| Advanced | CTEs, `LAG`, `RANK`, rolling/cumulative window functions, year-over-year self-joins | How did the sector collapse and recover through COVID-19? Which source markets and industries led the recovery? Which products are most exposed to a future international-demand shock? |
-
----
-
 ## 📈 Key Findings
 
 - **Total tourism expenditure fell 36.2%** in the year to March 2021 (COVID-19 border closures), then **rebounded 41.9%** in the year to March 2023 as borders reopened.
