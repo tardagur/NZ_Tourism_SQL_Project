@@ -20,7 +20,7 @@ The project workflow covers the complete analytics pipeline:
 
 ## 🛠 Tech Stack & Engineering Architecture
 
-- **Database Engine:** PostgreSQL 16
+- **Database Engine:** PostgreSQL 18
 - **ETL Engine:** Python (`openpyxl`, `csv`)
 - **Data Source:** Statistics New Zealand (Stats NZ), *Tourism Satellite Account: Year ended March 2025* (published 3 March 2026)
 - **Data Model:** Normalized relational schema — 7 tables across expenditure, employment, visitor-arrival, and product dimensions
