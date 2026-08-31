@@ -1,6 +1,5 @@
 /* =====================================================================
    New Zealand Tourism Satellite Account Analysis
-   Author: [Your Name]
    Source: Stats NZ, Tourism Satellite Account: Year ended March 2025
            (published 3 March 2026)
            https://www.stats.govt.nz/information-releases/
